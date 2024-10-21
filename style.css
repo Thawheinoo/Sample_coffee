@@ -48,13 +48,13 @@ img {
   color: white;
 }
 .slide-1 {
-  background: url(../../img/cover.jpg);
+  background: url(./img/cover.jpg);
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat;
 }
 .slide-2 {
-  background-image: url(../../img/pasta.jpg);
+  background-image: url(./img/pasta.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
