@@ -84,7 +84,7 @@ i {
   color: #f58d17;
 }
 #features {
-  background-image: url(../../img/why\ choose\ to\ us1.jpg);
+  background-image: url(./img/why\ choose\ to\ us1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -96,7 +96,7 @@ i {
   color: #ca7310;
 }
 #review {
-  background-image: linear-gradient(rgb(0, 0, 0 , 0.7), rgb(0, 0, 0 , 0.7)) ,url(../../img/For\ our\ clients\ say.jpg);
+  background-image: linear-gradient(rgb(0, 0, 0 , 0.7), rgb(0, 0, 0 , 0.7)) ,url(./img/For\ our\ clients\ say.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -109,7 +109,7 @@ i {
   border: 0.1px solid #f58d17;
 }
 #footer {
-  background-image: linear-gradient(rgb(0, 0, 0, 0.8 ), rgb(0, 0, 0, 0.8)) , url(../../img/cover.jpg);
+  background-image: linear-gradient(rgb(0, 0, 0, 0.8 ), rgb(0, 0, 0, 0.8)) , url(./img/cover.jpg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
